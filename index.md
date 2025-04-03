@@ -82,6 +82,7 @@ marp: true
 - Co-sponsorship of **MAHE-GenWise Scholarships** (merit)
 - Support for **10 Navodaya girl students** (need-based)
 - **Revisit infrastructure pricing framework** to enable scale & access
+- What else?
 
 <!-- presenter: Use this as a prompt for conversation—not a direct ask. Present as “opportunities for deeper partnership.” -->
 
