@@ -72,7 +72,7 @@ marp: true
 - Expansion for **Gifted Summer Programs**, and into **Teacher Mentoring** and **GenAI programs** will stretch resources materially
 
 ---
-![Participation Trend](./gifted_summer_participation_trend.png){height="70%"}
+![Participation Trend](./gifted_summer_participation_trend_padded.png)
 
 <!-- presenter: Lay out a bold but feasible roadmap. Call out Gifted World affiliation as strategic credibility. Mention resource pressure to hint at why MAHE support matters more now. -->
 
